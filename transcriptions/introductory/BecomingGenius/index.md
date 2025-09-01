@@ -1,4 +1,4 @@
-# Becoming Genius Series Transcriptions
+# Becoming Genius Series Transcriptions 
 
 | Video | Transcription
 | --- | --- |
