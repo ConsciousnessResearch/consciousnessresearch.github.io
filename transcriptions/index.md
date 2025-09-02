@@ -32,8 +32,8 @@ Here is a tabular view:
 | [Foundation Series](introductory/foundation/index.md) | Necessary background knowledge |
 | [Becoming Genius](introductory/BecomingGenius/index.md) | How to master any subject or skill |
 | [Being in the World](introductory/BeingintheWorld/BeingInTheWorld.md) | The fundamental human existential problem | 
+| [Call of the Friend](CalloftheFriend/CalloftheFriend.md) | When the aspirant is ready, the teacher appears |
 | [Being Integrity]() | Attaining full human beingness through integrity |
-| [Call of the Friend]() | When the aspirant is ready, the teacher appears |
 | [Introduction to the Esoteric Teaching]() | The hidden knowledge behind all authentic religious and spiritual teachings and traditions |
 | [Consciousness]() | The most ancient theory of consciousness is still the best |
 | [Authentic Spiritual Life]() | Real spiritual experience arises spontaneously from within |
