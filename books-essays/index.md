@@ -1,4 +1,4 @@
 # Books and Essays
 
-|  PDF | Description |
+| Title | Description |
 | --- | --- |
