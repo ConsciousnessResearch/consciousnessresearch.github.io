@@ -16,4 +16,5 @@
 | [Śrīmad Devī Bhāgavatam Part 2](https://drive.google.com/file/d/1Bk5X62J4hVKFcSGDOIYJvSp_-XjDvXzi/view?usp=share_link) | see above |
 | [The Dharmasār Solution](https://drive.google.com/file/d/1A8Nxuz-1CvMETc8eI3QIe4baZJY8zC5g/view?usp=share_link) | The solution to the great problems of life — 100 Days to Enlightenment |
 | [The Magical Mind](https://drive.google.com/file/d/1Q2Tooph1plWsREbknLyEkU4MWm4xInz1/view?usp=share_link) | Deep Analysis of the Kālakārāma Sutta |
+| [Transontology](https://drive.google.com/file/d/1h1EeTF_KRAynslA7UmP2tA2W3xYVooDF/view?usp=share_link) | An early work on transcendental ontology |
 | [Ulladu-Narpadu](https://drive.google.com/file/d/1-mbt2Tc3NhkHiV-p6RqDjVIZZ-fqyQFY/view?usp=share_link) | Based on video series of Bhagavān Śrī Rāmana Mahārṣi’s magnificent Tamīḷ classic, Ulladu-Narpadu. |
