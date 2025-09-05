@@ -33,11 +33,11 @@ Here is a tabular view:
 | [Becoming Genius](introductory/BecomingGenius/index.md) | How to master any subject or skill |
 | [Being in the World](introductory/BeingintheWorld/BeingInTheWorld.md) | The fundamental human existential problem | 
 | [Call of the Friend](introductory/CalloftheFriend/CalloftheFriend.md) | When the aspirant is ready, the teacher appears |
-| [Being Integrity]() | Attaining full human beingness through integrity |
-| [Introduction to the Esoteric Teaching]() | The hidden knowledge behind all authentic religious and spiritual teachings and traditions |
-| [Consciousness]() | The most ancient theory of consciousness is still the best |
+| [Being Integrity](introductory/BeingIntegrity/index.md) | Attaining full human beingness through integrity |
+| [Introduction to the Esoteric Teaching](introductory/EsotericTeaching/index.md) | The hidden knowledge behind all authentic religious and spiritual teachings and traditions |
+| [Consciousness](introductory/Consciousness/index.md) | The most ancient theory of consciousness is still the best |
 | [Authentic Spiritual Life](introductory/AuthenticSpiritualLife/AuthenticSpiritualLife.md) | Real spiritual experience arises spontaneously from within |
-| [The Big Picture]() | Beyond narrow-minded sectarian views to the universal |
+| [The Big Picture](introductory/BigPicture/index.md) | Beyond narrow-minded sectarian views to the universal |
  
 ## *Dvaita-vāda* | *Karma-yoga* | *Jagrat* Consciousness
 
