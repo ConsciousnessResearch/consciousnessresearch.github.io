@@ -20,7 +20,6 @@ The **root ontology** of **Consciousness Research Centre** is shown here:
 
 The classification of the videos series is based on the level of **development of consciousness** through the *yoga* system, and the *cakras* that represent the center of awareness and support for that consciousness:
 
-![Consciousness](art/consciousness.png)
 
 The seven *cakras* are divided into **four groups**. The groups are the basis of the ***catur-darśanam*** (four views of reality). The views are expressions of the **four states of consciousness**: *jagrat, svapna, suṣupti* and *turīya*. The practices related to the views and states of consciousness are the four principal *yogas: karma, bhakti, rāja* and *jñāna*.
 
