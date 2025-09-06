@@ -2,6 +2,7 @@
 
 | Video | Transcription |
 | --- | --- |
+| [YouTube](https://www.youtube.com/watch?v=CsN8yN0zbWk) | [Architecture of the Esoteric Teaching](Architecture.md)
 | [YouTube](https://www.youtube.com/watch?v=9QzKieoluFw) | [0—Dharmasār the Esoteric Teaching](EsotericTeaching0.md) |
 | [YouTube](https://www.youtube.com/watch?v=vtrQil2W__0) | [1—Joy Unlimited](EsotericTeaching1.md) |
 | [YouTube](https://www.youtube.com/watch?v=lwZiYQv5yM0) | [2—Context & Meaning](EsotericTeaching2.md) |
