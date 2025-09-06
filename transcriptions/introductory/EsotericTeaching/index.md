@@ -15,9 +15,10 @@
 | [YouTube](https://www.youtube.com/watch?v=7phoC6JOpCk) | [9—Wrong View](EsotericTeaching9.md) |
 | [YouTube](https://www.youtube.com/watch?v=wHCV97mkcao) | [10—On the Path](EsotericTeaching10.md) |
 | [YouTube](https://www.youtube.com/watch?v=ZpwYk3R1Dao) | [11—My Practice](EsotericTeaching11.md) |
-| [YouTube](https://www.youtube.com/watch?v=JyCmxC5SlBY) | [12—Path Questions 2](EsotericTeaching12.md) |
-| [YouTube](https://www.youtube.com/watch?v=x_6FDaFc9g4) | [13—Path Questions 3](EsotericTeaching13.md) |
-| [YouTube](https://www.youtube.com/watch?v=j5qBFGuugj4) | [14—Path Questions 4](EsotericTeaching14.md) |
-| [YouTube](https://www.youtube.com/watch?v=YJmS6vAGdKk) | [15—Jump Up, Fall Down](EsotericTeaching15.md) |
-| [YouTube](https://www.youtube.com/watch?v=HtQRCU6Bz2o) | [16—Interview Part 1](EsotericTeaching16.md) |
-| [YouTube](https://www.youtube.com/watch?v=T3iQDFENL8g) | [17—Interview Part 2](EsotericTeaching17.md) |
+| [YouTube](https://www.youtube.com/watch?v=J4xaQq4hU0Y) | [12—Path Questions 1](EsotericTeaching12.md) |
+| [YouTube](https://www.youtube.com/watch?v=JyCmxC5SlBY) | [13—Path Questions 2](EsotericTeaching12.md) |
+| [YouTube](https://www.youtube.com/watch?v=x_6FDaFc9g4) | [14—Path Questions 3](EsotericTeaching13.md) |
+| [YouTube](https://www.youtube.com/watch?v=j5qBFGuugj4) | [15—Path Questions 4](EsotericTeaching14.md) |
+| [YouTube](https://www.youtube.com/watch?v=YJmS6vAGdKk) | [16—Jump Up, Fall Down](EsotericTeaching15.md) |
+| [YouTube](https://www.youtube.com/watch?v=HtQRCU6Bz2o) | [17—Interview Part 1](EsotericTeaching16.md) |
+| [YouTube](https://www.youtube.com/watch?v=T3iQDFENL8g) | [18—Interview Part 2](EsotericTeaching17.md) |
