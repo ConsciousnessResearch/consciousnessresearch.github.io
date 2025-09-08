@@ -4,7 +4,7 @@
 | --- | --- | --- |
 | 1 | [YouTube](https://www.youtube.com/watch?v=gLXKC6zop-8) | [Navigating Dharmasār](BigPicture01.md) | 
 | 2 | [YouTube](https://www.youtube.com/watch?v=h_SwYd9QqIU) | [Ocean of Great Compassion](BigPicture02.md) | 
-| 3 | [YouTube](https://www.youtube.com/watch?v=sG_Lfdvch50) | [TransTranscendental](BigPicture03.md) | 
+| 3 | [YouTube](https://www.youtube.com/watch?v=sG_Lfdvch50) | [Trans-Transcendental](BigPicture03.md) | 
 | 4 | [YouTube](https://www.youtube.com/watch?v=prI3OFheS24) | [In the Beginning...](BigPicture04.md) | 
 | 5 | [YouTube](https://www.youtube.com/watch?v=Bb2FB9LWt24) | [Consciousness, Ego & Enlightenment](BigPicture05.md) | 
 | 6 | [YouTube](https://www.youtube.com/watch?v=HetakCu8pwM) | [Stuff I Wish Someone Had Told Me](BigPicture06.md) | 
