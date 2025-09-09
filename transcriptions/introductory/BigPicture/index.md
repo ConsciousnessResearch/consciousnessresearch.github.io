@@ -12,7 +12,7 @@
 | 8 | [YouTube](https://www.youtube.com/watch?v=GmHGpGDE6Ws) | [Transmigration of the Soul](BigPicture08.md) | 
 | 9 | [YouTube](https://www.youtube.com/watch?v=wWGf9nyUJBc) | [Upādhi (Superimposition)](BigPicture09.md) | 
 | 10 | [YouTube](https://www.youtube.com/watch?v=3bFKIp-yBYc) | [Ontology of the Esoteric Teaching](BigPicture10.md) | 
-| 11 | [YouTube]() | [Title](BigPicture11.md) | 
+| 11 | [YouTube](https://www.youtube.com/watch?v=7jAdir9_cHs) | [Non-Aristotelian Logic](BigPicture11.md) | 
 | 12 | [YouTube]() | [Title](BigPicture12.md) | 
 | 13 | [YouTube]() | [Title](BigPicture13.md) | 
 | 14 | [YouTube]() | [Title](BigPicture14.md) | 
