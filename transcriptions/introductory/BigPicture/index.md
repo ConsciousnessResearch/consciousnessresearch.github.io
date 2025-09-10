@@ -13,16 +13,16 @@
 | 9 | [YouTube](https://www.youtube.com/watch?v=wWGf9nyUJBc) | [Upādhi (Superimposition)](BigPicture09.md) | 
 | 10 | [YouTube](https://www.youtube.com/watch?v=3bFKIp-yBYc) | [Ontology of the Esoteric Teaching](BigPicture10.md) | 
 | 11 | [YouTube](https://www.youtube.com/watch?v=7jAdir9_cHs) | [Non-Aristotelian Logic](BigPicture11.md) | 
-| 12 | [YouTube]() | [Title](BigPicture12.md) | 
-| 13 | [YouTube]() | [Title](BigPicture13.md) | 
-| 14 | [YouTube]() | [Title](BigPicture14.md) | 
-| 15 | [YouTube]() | [Title](BigPicture15.md) | 
-| 16 | [YouTube]() | [Title](BigPicture16.md) | 
-| 17 | [YouTube]() | [Title](BigPicture17.md) | 
-| 18 | [YouTube]() | [Title](BigPicture18.md) | 
-| 19 | [YouTube]() | [Title](BigPicture19.md) | 
-| 20 | [YouTube]() | [Title](BigPicture20.md) | 
-| 21 | [YouTube]() | [Title](BigPicture21.md) | 
+| 12 | [YouTube](https://www.youtube.com/watch?v=RxDp4M4J4wc) | [Beyond Human Intelligence](BigPicture12.md) | 
+| 13 | [YouTube](https://www.youtube.com/watch?v=a9ztzslCwRo) | [O Gracious Beauty Eternal](BigPicture13.md) | 
+| 14 | [YouTube](https://www.youtube.com/watch?v=A4fPSNX6qvM) | [Tree of Knowledge](BigPicture14.md) | 
+| 15 | [YouTube](https://www.youtube.com/watch?v=TrUCuwWAumY) | [The Face of God](BigPicture15.md) | 
+| 16 | [YouTube](https://www.youtube.com/watch?v=Q5X7D_J8Yz8) | [Death, Faith and Destiny](BigPicture16.md) | 
+| 17 | [YouTube](https://www.youtube.com/watch?v=uVMKXdbzYPY) | [The World of Brahman](BigPicture17.md) | 
+| 18 | [YouTube](https://www.youtube.com/watch?v=-gfp0FLIzDY) | [Consciousness and Cakras 1](BigPicture18.md) | 
+| 19 | [YouTube](https://www.youtube.com/watch?v=ZqcUIZJ5u8Y) | [Consciousness and Cakras 2](BigPicture19.md) | 
+| 20 | [YouTube](https://www.youtube.com/watch?v=VyD5OjF3K84) | [*Dharma, Artha, Kāma* and *Mokṣa*](BigPicture20.md) | 
+| 21 | [YouTube](https://www.youtube.com/watch?v=bAGXZhGgZfY) | [en•LIGHT•en•ment](BigPicture21.md) | 
 | 22 | [YouTube]() | [Title](BigPicture22.md) | 
 | 23 | [YouTube]() | [Title](BigPicture23.md) | 
 | 24 | [YouTube]() | [Title](BigPicture24.md) | 
