@@ -12,7 +12,7 @@
 
 **Video Playlist:** [YouTube](https://www.youtube.com/playlist?list=PL8s1kPtHmCZKmgES4E6Lnrqu9Sdt4_786)
 
-The **Foundation Series** is the introduction to **Dharmasār**, meaning the **Essence of Dharma**. This is a teaching, a very broad context containing all the essential views of all authentic spiritual Paths and methods, and showing their inter-relations. Technically this is called an ontology: the background knowledge or system of relations undying any technical field or highly evolved skill.
+The **Foundation Series** is the introduction to **Dharmasār**, meaning the **Essence of Dharma**. This is a teaching, a very broad context containing all the essential views of all authentic spiritual Paths and methods, and showing their inter-relations. Technically this is called an ontology: the background knowledge or system of relations underlying any technical field or highly evolved skill.
 
 It is based on the teaching of _catur-darśanam_, the Four Views explained by Śrīpad Śaṅkarācārya in his _Sārīraka-bhāśya_ commentary on _Vedānta-sūtra_. These Four Views are, in turn, based on the four states of consciousness—waking, dreaming, deep sleep and the fourth, _turīya_—that are an intimate part of everyone’s daily experience.
 
